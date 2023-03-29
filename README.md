@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaditya yadav</h1>
-<h3 align="center">A passionate Learner from Nepal</h3>
+<h3 align="center">A passionate learner from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaditya-29&label=Profile%20views&color=0e75b6&style=flat" alt="aaditya-29" /> </p>
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="profile.php?id=100011631497649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya yadav" height="30" width="40" /></a>
-<a href="[https://instagram.com/aa_di_ty_a_](https://www.instagram.com/aa_di_ty_a_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa_di_ty_a_" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011631497649" target="new"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya yadav" height="30" width="40" /></a>
+<a href="https://instagram.com/aa_di_ty_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa_di_ty_a_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
