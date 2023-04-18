@@ -15,9 +15,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="new" href="https://www.facebook.com/profile.php?id=100011631497649" target="new"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya yadav" height="30" width="40" /></a>
-<a target="new" href="https://www.instagram.com/aa_di_ty_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aa_di_ty_a_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/aaditya-yadav-6a0876257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aaditya-yadav-6a0876257" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/aa_di_ty_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aa_di_ty_a_" height="30" width="40" /></a>
+<a target="new" href="https://www.instagram.com/aa_di_ty_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" target="_blank" alt="aa_di_ty_a_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/aaditya-yadav-6a0876257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  target="_blank" alt="in/aaditya-yadav-6a0876257" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/aa_di_ty_a_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/aa_di_ty_a_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
