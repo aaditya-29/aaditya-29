@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **java script**
 
-- 💬 Ask me about **C, Html, CSS**
+- 💬 Ask me about **C, Html, CSS, c++, java, python**
 
 - 📫 How to reach me **yadavaaditya3029@gmail.com**
 
