@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning *ReactJS**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **HTML, CSS, JAVA, C++, Python, DSA**
 
